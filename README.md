@@ -13,3 +13,4 @@ points.animate(iterations)
 points = FRAP(1000,0,0.1,2,5)
 points.animate(200)
 ```
+![frap](https://user-images.githubusercontent.com/47088251/202988366-0f66c49d-f140-48db-9f04-5c0b75a71a2d.gif)
